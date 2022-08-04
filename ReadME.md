@@ -1,7 +1,7 @@
-## Full AUTH Server
+# Full AUTH Server
 
-
-# register
-# login
-# logout
-# getdata
+## routes:
+  ## • register
+  ## • login
+  ## • logout
+  ## • getdata
